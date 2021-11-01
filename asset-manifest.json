@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-slick-carousel/static/css/main.905469ca.chunk.css",
-    "main.js": "/react-slick-carousel/static/js/main.56bcb7fe.chunk.js",
-    "main.js.map": "/react-slick-carousel/static/js/main.56bcb7fe.chunk.js.map",
+    "main.js": "/react-slick-carousel/static/js/main.64211c13.chunk.js",
+    "main.js.map": "/react-slick-carousel/static/js/main.64211c13.chunk.js.map",
     "runtime-main.js": "/react-slick-carousel/static/js/runtime-main.1efccb03.js",
     "runtime-main.js.map": "/react-slick-carousel/static/js/runtime-main.1efccb03.js.map",
     "static/css/2.187dac5a.chunk.css": "/react-slick-carousel/static/css/2.187dac5a.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.187dac5a.chunk.css",
     "static/js/2.100459c4.chunk.js",
     "static/css/main.905469ca.chunk.css",
-    "static/js/main.56bcb7fe.chunk.js"
+    "static/js/main.64211c13.chunk.js"
   ]
 }
